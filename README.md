@@ -37,7 +37,7 @@ Both Judge and Admin can login to this scoring web-application to have different
 
 	Admin can have the Bar-chart view of the final result.
 
- ##Links:
+##Links:
  
  Youtube URL : https://youtu.be/vYxmxtUYr6c
  
