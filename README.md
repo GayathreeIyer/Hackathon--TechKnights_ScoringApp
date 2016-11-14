@@ -44,3 +44,5 @@ Both Judge and Admin can login to this scoring web-application to have different
  Presentation URL : https://www.dropbox.com/s/ddok396ivxfon0j/hackathon%20ppt.pptx?dl=0
  
  Github URL :  https://github.com/GayathreeIyer/Hackathon--TechKnights_ScoringApp
+ 
+ Wiki Page URL :  https://github.com/GayathreeIyer/Hackathon--TechKnights_ScoringApp/wiki/Tech-Knights::Scoring-Application
